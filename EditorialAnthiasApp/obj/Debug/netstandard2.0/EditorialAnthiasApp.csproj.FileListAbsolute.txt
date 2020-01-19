@@ -1,0 +1,14 @@
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\EditorialAnthiasApp.csprojAssemblyReference.cache
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\EditorialAnthiasApp.AssemblyInfoInputs.cache
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\EditorialAnthiasApp.AssemblyInfo.cs
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\bin\Debug\netstandard2.0\EditorialAnthiasApp.deps.json
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\bin\Debug\netstandard2.0\EditorialAnthiasApp.dll
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\bin\Debug\netstandard2.0\ref\EditorialAnthiasApp.dll
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\bin\Debug\netstandard2.0\EditorialAnthiasApp.pdb
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\EditorialAnthiasApp.dll
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\ref\EditorialAnthiasApp.dll
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\EditorialAnthiasApp.pdb
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\ReadPage.xaml.g.cs
+C:\Users\Oscar\source\repos\EditorialAnthiasApp\EditorialAnthiasApp\obj\Debug\netstandard2.0\XamlC.stamp

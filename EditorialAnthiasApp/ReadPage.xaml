@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:EditorialAnthiasApp"
+             xmlns:syncfusion="clr-namespace:Syncfusion.SfPdfViewer.XForms;assembly=Syncfusion.SfPdfViewer.XForms"
+             xmlns:ViweModel="clr-namespace:EditorialAnthiasApp.ViewModel"
+             mc:Ignorable="d"
+             x:Class="EditorialAnthiasApp.ReadPage">
+    <ContentPage.BindingContext>
+        <ViweModel:PdfViewerViewModel></ViweModel:PdfViewerViewModel>
+    </ContentPage.BindingContext>
+    <Grid x:Name="pdfViewGrid">
+        <syncfusion:SfPdfViewer x:Name="pdfViewerControl" InputFileStream="{Binding PdfDocumentStream}"/>
+    </Grid>
+</ContentPage>
